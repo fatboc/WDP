@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1547434164 source:/home/fatusia/Documents/quicksort/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1547434212 source:/home/fatusia/Documents/quicksort/quicksort.c
+	"quicksort.h"
+
+1547427813 /home/fatusia/Documents/quicksort/quicksort.h
+

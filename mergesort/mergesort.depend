@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1547303150 source:/home/fatusia/Documents/mergesort/main.c
+	"megesort.h"
+
+1547302541 /home/fatusia/Documents/mergesort/megesort.h
+	<stdio.h>
+	<stdlib.h>
+
+1547303106 source:/home/fatusia/Documents/mergesort/mergesort.c
+	"megesort.h"
+

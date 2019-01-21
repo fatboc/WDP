@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1547453183 source:/home/fatusia/Documents/cezar/main.c
+	"cezar.h"
+
+1547434456 source:/home/fatusia/Documents/quicksort/quicksort.c
+	"quicksort.h"
+
+1547427813 /home/fatusia/Documents/quicksort/quicksort.h
+
+1547452961 /home/fatusia/Documents/cezar/cezar.h
+	"../quicksort/quicksort.h"
+	"../mergesort/megesort.h"
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1547303175 source:/home/fatusia/Documents/mergesort/mergesort.c
+	"megesort.h"
+
+1547302541 /home/fatusia/Documents/mergesort/megesort.h
+	<stdio.h>
+	<stdlib.h>
+
+1547454400 source:/home/fatusia/Documents/cezar/cezar.c
+	"cezar.h"
+
