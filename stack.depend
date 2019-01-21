@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1548098911 source:/home/fatusia/Documents/stack/main.c
+	"stack.h"
+
+1547636556 source:/home/fatusia/Documents/stack/stack.c
+	"stack.h"
+
+1547643588 /home/fatusia/Documents/stack/stack.h
+	<stdio.h>
+	<stdlib.h>
+
